@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Etienne URBANO
 Antoine AUBREE
-=======
-Etienne Urbano
->>>>>>> c63d34c9058334a4790088e5b287b0edd644f9d9
