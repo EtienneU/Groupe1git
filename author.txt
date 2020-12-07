@@ -1,7 +1,4 @@
 Etienne URBANO
 Antoine AUBREE
-<<<<<<< HEAD
 Manon FAUCHER
-=======
 Antonin Barcelo
->>>>>>> 87e35624feda5b9dc1406337a780df59b7e4b22b
